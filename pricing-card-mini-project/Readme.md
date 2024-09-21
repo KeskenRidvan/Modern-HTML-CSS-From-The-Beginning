@@ -1,6 +1,6 @@
 # Screenshot of the project:
 
-![image](images/freelance-form-project.png)
+![image](images/pricing-card-mini-project.png)
 
 ---
 
